@@ -1,4 +1,4 @@
-# 3.1.1-Brute-Force-KNN
+# 3.1.1-Brute-Force-KNN (and 3.1.2 Drill!!!!)
 In this assignment, I will build a simple brute force k-nearest neighbors classifier.
 
 
